@@ -6,7 +6,7 @@ echo ======================================================================
 echo    PUSH DENTAL CLINIC SCRAPER TO GITHUB (FREE 24/7 CLOUD RUNNER)
 echo ======================================================================
 echo.
-echo Option 1: Press ENTER to push to your existing repository:
+echo Option 1: Press ENTER to push to your repository:
 echo           https://github.com/Reysajju/test.git
 echo.
 echo Option 2: Or paste another GitHub repository URL below
@@ -27,23 +27,22 @@ git remote remove origin 2>nul
 git remote add origin %TARGET_URL%
 git branch -M main
 
-echo Starting push to GitHub...
-git push -u origin main
+echo Uploading to GitHub...
+git push -u origin main --force
 
 if %ERRORLEVEL% equ 0 (
     echo.
     echo ======================================================================
     echo    SUCCESS! YOUR REPOSITORY IS LIVE ON GITHUB!
     echo ======================================================================
-    echo  1. Go to your repository on GitHub.
-    echo  2. Click on the 'Actions' tab.
-    echo  3. Click 'Run workflow' to start the 24/7 scraper!
+    echo  1. Open: https://github.com/Reysajju/test/actions
+    echo  2. You will see '24/7 Dental Clinic Scraper (Free Forever)'
+    echo  3. It will now run in the cloud automatically every 4 hours!
     echo ======================================================================
 ) else (
     echo.
     echo ======================================================================
-    echo  Push notice: If Git prompted for browser sign-in, please complete
-    echo  the login and re-run this script.
+    echo  Notice: If prompted, complete the GitHub sign-in and run again.
     echo ======================================================================
 )
 
