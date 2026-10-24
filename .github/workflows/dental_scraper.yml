@@ -1,0 +1,54 @@
+name: 24/7 Dental Clinic Scraper (Free Forever)
+
+on:
+  schedule:
+    # Runs automatically every 4 hours in the cloud
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # Allows you to click "Run workflow" manually from GitHub anytime
+
+permissions:
+  contents: write
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+    timeout-minutes: 65
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: |
+          npm ci
+          npx playwright install --with-deps chromium
+
+      - name: Run Cloud Dental Scraper (50 Minutes per Cycle)
+        env:
+          NODE_ENV: production
+          MAX_RUN_MINUTES: 50
+        run: |
+          node start_dental_scraper.js
+
+      - name: Commit & Push Updated Leads
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add "Sajjad data/"
+          git commit -m "Auto-update dental clinic leads [skip ci]" || echo "No changes to commit"
+          git push
+
+      - name: Upload Master Excel Spreadsheet
+        uses: actions/upload-artifact@v4
+        with:
+          name: Dental_Clinics_US_CA_Master_Excel
+          path: "Sajjad data/Dental_Clinics_US_CA_Master.xlsx"
+          if-no-files-found: warn

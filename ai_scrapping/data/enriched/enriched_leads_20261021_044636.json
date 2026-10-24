@@ -1,0 +1,68 @@
+[
+  {
+    "business_name": "Z Barbershop",
+    "category": "Barber Shops",
+    "phone_raw": "+1 (774) 777-8777",
+    "email_raw": "",
+    "full_address": "Z Barbershop is located at 536 Columbus Ave in Boston, Massachusetts 02118. Z Barbershop can be contacted via phone at 7",
+    "city": "hours and directions.",
+    "state": "MA",
+    "zip": "",
+    "rating": "",
+    "reviews": "0",
+    "source": "public_directory_index",
+    "source_url": "https://www.chamberofcommerce.com/business-directory/massachusetts/boston/barber-shop/2007913361-z-barbershop",
+    "has_website": false,
+    "found_emails": [
+      "lemonad@jovanny.ru",
+      "filler@godaddy.com",
+      "zbarbershopboston@gmail.com"
+    ],
+    "found_phones": [
+      "+1 (774) 777-8777",
+      "+1 (774) 777-1477"
+    ],
+    "found_socials": {
+      "instagram": "https://www.instagram.com/zbarbershopboston/",
+      "facebook": "https://www.facebook.com/Zbarbershopboston/"
+    },
+    "scanned_urls": [
+      "https://zbarbershop.com/",
+      "https://zbarbershop.com/locations",
+      "https://www.mapquest.com/us/massachusetts/z-barbershop-421517926"
+    ],
+    "ai_insights": "Z Barbershop | Best Barber Shop in Boston & Quincy, MA | Haircuts & Beard Trims HOME BARBERS GALLERY Locations More HOME BARBERS GALLERY Locations Sign In My Account Signed in as: filler@godaddy.com My Account Sign out Signed in as: filler@go",
+    "decision_maker_candidates": [],
+    "primary_owner_name": "",
+    "primary_owner_role": "",
+    "owner_source": ""
+  },
+  {
+    "business_name": "25 Best Barber Shops Near Boston, MA - 2026 BestProsInTown",
+    "category": "Barber Shops",
+    "phone_raw": "",
+    "email_raw": "",
+    "full_address": "Find the best barbershops in Boston with the latest reviews and photos. Get directions, hours and phone numbers.",
+    "city": "hours and phone numbers.",
+    "state": "MA",
+    "zip": "",
+    "rating": "",
+    "reviews": "0",
+    "source": "public_directory_index",
+    "source_url": "https://www.bestprosintown.com/ma/boston/barbers/",
+    "has_website": false,
+    "found_emails": [],
+    "found_phones": [],
+    "found_socials": {},
+    "scanned_urls": [
+      "https://www.yelp.com/search?cflt=barbers&find_loc=Boston,+MA",
+      "https://www.yelp.com/search?find_desc=best+barber+shop&find_loc=Boston,+MA",
+      "https://trustanalytica.org/us/ma/boston/top-barber-shops"
+    ],
+    "ai_insights": "",
+    "decision_maker_candidates": [],
+    "primary_owner_name": "",
+    "primary_owner_role": "",
+    "owner_source": ""
+  }
+]

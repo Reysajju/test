@@ -1,0 +1,2080 @@
+{
+  "eastern": {
+    "name": "Eastern Zone (US & Canada)",
+    "cities": [
+      {
+        "name": "New York",
+        "state": "NY",
+        "country": "US",
+        "queryLoc": "New York, NY"
+      },
+      {
+        "name": "Brooklyn",
+        "state": "NY",
+        "country": "US",
+        "queryLoc": "Brooklyn, NY"
+      },
+      {
+        "name": "Queens",
+        "state": "NY",
+        "country": "US",
+        "queryLoc": "Queens, NY"
+      },
+      {
+        "name": "Manhattan",
+        "state": "NY",
+        "country": "US",
+        "queryLoc": "Manhattan, NY"
+      },
+      {
+        "name": "Bronx",
+        "state": "NY",
+        "country": "US",
+        "queryLoc": "Bronx, NY"
+      },
+      {
+        "name": "Staten Island",
+        "state": "NY",
+        "country": "US",
+        "queryLoc": "Staten Island, NY"
+      },
+      {
+        "name": "Buffalo",
+        "state": "NY",
+        "country": "US",
+        "queryLoc": "Buffalo, NY"
+      },
+      {
+        "name": "Rochester",
+        "state": "NY",
+        "country": "US",
+        "queryLoc": "Rochester, NY"
+      },
+      {
+        "name": "Yonkers",
+        "state": "NY",
+        "country": "US",
+        "queryLoc": "Yonkers, NY"
+      },
+      {
+        "name": "Syracuse",
+        "state": "NY",
+        "country": "US",
+        "queryLoc": "Syracuse, NY"
+      },
+      {
+        "name": "Albany",
+        "state": "NY",
+        "country": "US",
+        "queryLoc": "Albany, NY"
+      },
+      {
+        "name": "Philadelphia",
+        "state": "PA",
+        "country": "US",
+        "queryLoc": "Philadelphia, PA"
+      },
+      {
+        "name": "Pittsburgh",
+        "state": "PA",
+        "country": "US",
+        "queryLoc": "Pittsburgh, PA"
+      },
+      {
+        "name": "Allentown",
+        "state": "PA",
+        "country": "US",
+        "queryLoc": "Allentown, PA"
+      },
+      {
+        "name": "Erie",
+        "state": "PA",
+        "country": "US",
+        "queryLoc": "Erie, PA"
+      },
+      {
+        "name": "Reading",
+        "state": "PA",
+        "country": "US",
+        "queryLoc": "Reading, PA"
+      },
+      {
+        "name": "Jacksonville",
+        "state": "FL",
+        "country": "US",
+        "queryLoc": "Jacksonville, FL"
+      },
+      {
+        "name": "Miami",
+        "state": "FL",
+        "country": "US",
+        "queryLoc": "Miami, FL"
+      },
+      {
+        "name": "Tampa",
+        "state": "FL",
+        "country": "US",
+        "queryLoc": "Tampa, FL"
+      },
+      {
+        "name": "Orlando",
+        "state": "FL",
+        "country": "US",
+        "queryLoc": "Orlando, FL"
+      },
+      {
+        "name": "St. Petersburg",
+        "state": "FL",
+        "country": "US",
+        "queryLoc": "St. Petersburg, FL"
+      },
+      {
+        "name": "Hialeah",
+        "state": "FL",
+        "country": "US",
+        "queryLoc": "Hialeah, FL"
+      },
+      {
+        "name": "Port St. Lucie",
+        "state": "FL",
+        "country": "US",
+        "queryLoc": "Port St. Lucie, FL"
+      },
+      {
+        "name": "Cape Coral",
+        "state": "FL",
+        "country": "US",
+        "queryLoc": "Cape Coral, FL"
+      },
+      {
+        "name": "Tallahassee",
+        "state": "FL",
+        "country": "US",
+        "queryLoc": "Tallahassee, FL"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "state": "FL",
+        "country": "US",
+        "queryLoc": "Fort Lauderdale, FL"
+      },
+      {
+        "name": "Pembroke Pines",
+        "state": "FL",
+        "country": "US",
+        "queryLoc": "Pembroke Pines, FL"
+      },
+      {
+        "name": "Hollywood",
+        "state": "FL",
+        "country": "US",
+        "queryLoc": "Hollywood, FL"
+      },
+      {
+        "name": "Gainesville",
+        "state": "FL",
+        "country": "US",
+        "queryLoc": "Gainesville, FL"
+      },
+      {
+        "name": "Charlotte",
+        "state": "NC",
+        "country": "US",
+        "queryLoc": "Charlotte, NC"
+      },
+      {
+        "name": "Raleigh",
+        "state": "NC",
+        "country": "US",
+        "queryLoc": "Raleigh, NC"
+      },
+      {
+        "name": "Greensboro",
+        "state": "NC",
+        "country": "US",
+        "queryLoc": "Greensboro, NC"
+      },
+      {
+        "name": "Durham",
+        "state": "NC",
+        "country": "US",
+        "queryLoc": "Durham, NC"
+      },
+      {
+        "name": "Winston-Salem",
+        "state": "NC",
+        "country": "US",
+        "queryLoc": "Winston-Salem, NC"
+      },
+      {
+        "name": "Fayetteville",
+        "state": "NC",
+        "country": "US",
+        "queryLoc": "Fayetteville, NC"
+      },
+      {
+        "name": "Cary",
+        "state": "NC",
+        "country": "US",
+        "queryLoc": "Cary, NC"
+      },
+      {
+        "name": "Wilmington",
+        "state": "NC",
+        "country": "US",
+        "queryLoc": "Wilmington, NC"
+      },
+      {
+        "name": "Atlanta",
+        "state": "GA",
+        "country": "US",
+        "queryLoc": "Atlanta, GA"
+      },
+      {
+        "name": "Columbus",
+        "state": "GA",
+        "country": "US",
+        "queryLoc": "Columbus, GA"
+      },
+      {
+        "name": "Augusta",
+        "state": "GA",
+        "country": "US",
+        "queryLoc": "Augusta, GA"
+      },
+      {
+        "name": "Macon",
+        "state": "GA",
+        "country": "US",
+        "queryLoc": "Macon, GA"
+      },
+      {
+        "name": "Savannah",
+        "state": "GA",
+        "country": "US",
+        "queryLoc": "Savannah, GA"
+      },
+      {
+        "name": "Athens",
+        "state": "GA",
+        "country": "US",
+        "queryLoc": "Athens, GA"
+      },
+      {
+        "name": "Sandy Springs",
+        "state": "GA",
+        "country": "US",
+        "queryLoc": "Sandy Springs, GA"
+      },
+      {
+        "name": "Columbus",
+        "state": "OH",
+        "country": "US",
+        "queryLoc": "Columbus, OH"
+      },
+      {
+        "name": "Cleveland",
+        "state": "OH",
+        "country": "US",
+        "queryLoc": "Cleveland, OH"
+      },
+      {
+        "name": "Cincinnati",
+        "state": "OH",
+        "country": "US",
+        "queryLoc": "Cincinnati, OH"
+      },
+      {
+        "name": "Toledo",
+        "state": "OH",
+        "country": "US",
+        "queryLoc": "Toledo, OH"
+      },
+      {
+        "name": "Akron",
+        "state": "OH",
+        "country": "US",
+        "queryLoc": "Akron, OH"
+      },
+      {
+        "name": "Dayton",
+        "state": "OH",
+        "country": "US",
+        "queryLoc": "Dayton, OH"
+      },
+      {
+        "name": "Detroit",
+        "state": "MI",
+        "country": "US",
+        "queryLoc": "Detroit, MI"
+      },
+      {
+        "name": "Grand Rapids",
+        "state": "MI",
+        "country": "US",
+        "queryLoc": "Grand Rapids, MI"
+      },
+      {
+        "name": "Warren",
+        "state": "MI",
+        "country": "US",
+        "queryLoc": "Warren, MI"
+      },
+      {
+        "name": "Sterling Heights",
+        "state": "MI",
+        "country": "US",
+        "queryLoc": "Sterling Heights, MI"
+      },
+      {
+        "name": "Ann Arbor",
+        "state": "MI",
+        "country": "US",
+        "queryLoc": "Ann Arbor, MI"
+      },
+      {
+        "name": "Lansing",
+        "state": "MI",
+        "country": "US",
+        "queryLoc": "Lansing, MI"
+      },
+      {
+        "name": "Indianapolis",
+        "state": "IN",
+        "country": "US",
+        "queryLoc": "Indianapolis, IN"
+      },
+      {
+        "name": "Fort Wayne",
+        "state": "IN",
+        "country": "US",
+        "queryLoc": "Fort Wayne, IN"
+      },
+      {
+        "name": "Virginia Beach",
+        "state": "VA",
+        "country": "US",
+        "queryLoc": "Virginia Beach, VA"
+      },
+      {
+        "name": "Chesapeake",
+        "state": "VA",
+        "country": "US",
+        "queryLoc": "Chesapeake, VA"
+      },
+      {
+        "name": "Norfolk",
+        "state": "VA",
+        "country": "US",
+        "queryLoc": "Norfolk, VA"
+      },
+      {
+        "name": "Richmond",
+        "state": "VA",
+        "country": "US",
+        "queryLoc": "Richmond, VA"
+      },
+      {
+        "name": "Newport News",
+        "state": "VA",
+        "country": "US",
+        "queryLoc": "Newport News, VA"
+      },
+      {
+        "name": "Alexandria",
+        "state": "VA",
+        "country": "US",
+        "queryLoc": "Alexandria, VA"
+      },
+      {
+        "name": "Washington",
+        "state": "DC",
+        "country": "US",
+        "queryLoc": "Washington, DC"
+      },
+      {
+        "name": "Baltimore",
+        "state": "MD",
+        "country": "US",
+        "queryLoc": "Baltimore, MD"
+      },
+      {
+        "name": "Boston",
+        "state": "MA",
+        "country": "US",
+        "queryLoc": "Boston, MA"
+      },
+      {
+        "name": "Worcester",
+        "state": "MA",
+        "country": "US",
+        "queryLoc": "Worcester, MA"
+      },
+      {
+        "name": "Springfield",
+        "state": "MA",
+        "country": "US",
+        "queryLoc": "Springfield, MA"
+      },
+      {
+        "name": "Cambridge",
+        "state": "MA",
+        "country": "US",
+        "queryLoc": "Cambridge, MA"
+      },
+      {
+        "name": "Providence",
+        "state": "RI",
+        "country": "US",
+        "queryLoc": "Providence, RI"
+      },
+      {
+        "name": "Bridgeport",
+        "state": "CT",
+        "country": "US",
+        "queryLoc": "Bridgeport, CT"
+      },
+      {
+        "name": "New Haven",
+        "state": "CT",
+        "country": "US",
+        "queryLoc": "New Haven, CT"
+      },
+      {
+        "name": "Hartford",
+        "state": "CT",
+        "country": "US",
+        "queryLoc": "Hartford, CT"
+      },
+      {
+        "name": "Stamford",
+        "state": "CT",
+        "country": "US",
+        "queryLoc": "Stamford, CT"
+      },
+      {
+        "name": "Newark",
+        "state": "NJ",
+        "country": "US",
+        "queryLoc": "Newark, NJ"
+      },
+      {
+        "name": "Jersey City",
+        "state": "NJ",
+        "country": "US",
+        "queryLoc": "Jersey City, NJ"
+      },
+      {
+        "name": "Paterson",
+        "state": "NJ",
+        "country": "US",
+        "queryLoc": "Paterson, NJ"
+      },
+      {
+        "name": "Elizabeth",
+        "state": "NJ",
+        "country": "US",
+        "queryLoc": "Elizabeth, NJ"
+      },
+      {
+        "name": "Charleston",
+        "state": "SC",
+        "country": "US",
+        "queryLoc": "Charleston, SC"
+      },
+      {
+        "name": "Columbia",
+        "state": "SC",
+        "country": "US",
+        "queryLoc": "Columbia, SC"
+      },
+      {
+        "name": "North Charleston",
+        "state": "SC",
+        "country": "US",
+        "queryLoc": "North Charleston, SC"
+      },
+      {
+        "name": "Greenville",
+        "state": "SC",
+        "country": "US",
+        "queryLoc": "Greenville, SC"
+      },
+      {
+        "name": "Toronto",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Toronto, Ontario, Canada"
+      },
+      {
+        "name": "Ottawa",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Ottawa, Ontario, Canada"
+      },
+      {
+        "name": "Mississauga",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Mississauga, Ontario, Canada"
+      },
+      {
+        "name": "Brampton",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Brampton, Ontario, Canada"
+      },
+      {
+        "name": "Hamilton",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Hamilton, Ontario, Canada"
+      },
+      {
+        "name": "London",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "London, Ontario, Canada"
+      },
+      {
+        "name": "Markham",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Markham, Ontario, Canada"
+      },
+      {
+        "name": "Vaughan",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Vaughan, Ontario, Canada"
+      },
+      {
+        "name": "Kitchener",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Kitchener, Ontario, Canada"
+      },
+      {
+        "name": "Windsor",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Windsor, Ontario, Canada"
+      },
+      {
+        "name": "Richmond Hill",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Richmond Hill, Ontario, Canada"
+      },
+      {
+        "name": "Oakville",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Oakville, Ontario, Canada"
+      },
+      {
+        "name": "Burlington",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Burlington, Ontario, Canada"
+      },
+      {
+        "name": "Greater Sudbury",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Greater Sudbury, Ontario, Canada"
+      },
+      {
+        "name": "Oshawa",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Oshawa, Ontario, Canada"
+      },
+      {
+        "name": "Barrie",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Barrie, Ontario, Canada"
+      },
+      {
+        "name": "St. Catharines",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "St. Catharines, Ontario, Canada"
+      },
+      {
+        "name": "Cambridge",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Cambridge, Ontario, Canada"
+      },
+      {
+        "name": "Kingston",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Kingston, Ontario, Canada"
+      },
+      {
+        "name": "Guelph",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Guelph, Ontario, Canada"
+      },
+      {
+        "name": "Thunder Bay",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Thunder Bay, Ontario, Canada"
+      },
+      {
+        "name": "Waterloo",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Waterloo, Ontario, Canada"
+      },
+      {
+        "name": "Brantford",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Brantford, Ontario, Canada"
+      },
+      {
+        "name": "Pickering",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Pickering, Ontario, Canada"
+      },
+      {
+        "name": "Niagara Falls",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Niagara Falls, Ontario, Canada"
+      },
+      {
+        "name": "Peterborough",
+        "state": "ON",
+        "country": "CA",
+        "queryLoc": "Peterborough, Ontario, Canada"
+      },
+      {
+        "name": "Montreal",
+        "state": "QC",
+        "country": "CA",
+        "queryLoc": "Montreal, Quebec, Canada"
+      },
+      {
+        "name": "Quebec City",
+        "state": "QC",
+        "country": "CA",
+        "queryLoc": "Quebec City, Quebec, Canada"
+      },
+      {
+        "name": "Laval",
+        "state": "QC",
+        "country": "CA",
+        "queryLoc": "Laval, Quebec, Canada"
+      },
+      {
+        "name": "Gatineau",
+        "state": "QC",
+        "country": "CA",
+        "queryLoc": "Gatineau, Quebec, Canada"
+      },
+      {
+        "name": "Longueuil",
+        "state": "QC",
+        "country": "CA",
+        "queryLoc": "Longueuil, Quebec, Canada"
+      },
+      {
+        "name": "Sherbrooke",
+        "state": "QC",
+        "country": "CA",
+        "queryLoc": "Sherbrooke, Quebec, Canada"
+      },
+      {
+        "name": "Levis",
+        "state": "QC",
+        "country": "CA",
+        "queryLoc": "Levis, Quebec, Canada"
+      },
+      {
+        "name": "Saguenay",
+        "state": "QC",
+        "country": "CA",
+        "queryLoc": "Saguenay, Quebec, Canada"
+      },
+      {
+        "name": "Trois-Rivieres",
+        "state": "QC",
+        "country": "CA",
+        "queryLoc": "Trois-Rivieres, Quebec, Canada"
+      },
+      {
+        "name": "Terrebonne",
+        "state": "QC",
+        "country": "CA",
+        "queryLoc": "Terrebonne, Quebec, Canada"
+      },
+      {
+        "name": "Halifax",
+        "state": "NS",
+        "country": "CA",
+        "queryLoc": "Halifax, Nova Scotia, Canada"
+      },
+      {
+        "name": "Dartmouth",
+        "state": "NS",
+        "country": "CA",
+        "queryLoc": "Dartmouth, Nova Scotia, Canada"
+      },
+      {
+        "name": "Sydney",
+        "state": "NS",
+        "country": "CA",
+        "queryLoc": "Sydney, Nova Scotia, Canada"
+      },
+      {
+        "name": "Moncton",
+        "state": "NB",
+        "country": "CA",
+        "queryLoc": "Moncton, New Brunswick, Canada"
+      },
+      {
+        "name": "Saint John",
+        "state": "NB",
+        "country": "CA",
+        "queryLoc": "Saint John, New Brunswick, Canada"
+      },
+      {
+        "name": "Fredericton",
+        "state": "NB",
+        "country": "CA",
+        "queryLoc": "Fredericton, New Brunswick, Canada"
+      },
+      {
+        "name": "St. John's",
+        "state": "NL",
+        "country": "CA",
+        "queryLoc": "St. John's, Newfoundland and Labrador, Canada"
+      },
+      {
+        "name": "Charlottetown",
+        "state": "PE",
+        "country": "CA",
+        "queryLoc": "Charlottetown, Prince Edward Island, Canada"
+      }
+    ]
+  },
+  "central": {
+    "name": "Central Zone (US & Canada)",
+    "cities": [
+      {
+        "name": "Chicago",
+        "state": "IL",
+        "country": "US",
+        "queryLoc": "Chicago, IL"
+      },
+      {
+        "name": "Aurora",
+        "state": "IL",
+        "country": "US",
+        "queryLoc": "Aurora, IL"
+      },
+      {
+        "name": "Naperville",
+        "state": "IL",
+        "country": "US",
+        "queryLoc": "Naperville, IL"
+      },
+      {
+        "name": "Joliet",
+        "state": "IL",
+        "country": "US",
+        "queryLoc": "Joliet, IL"
+      },
+      {
+        "name": "Rockford",
+        "state": "IL",
+        "country": "US",
+        "queryLoc": "Rockford, IL"
+      },
+      {
+        "name": "Springfield",
+        "state": "IL",
+        "country": "US",
+        "queryLoc": "Springfield, IL"
+      },
+      {
+        "name": "Peoria",
+        "state": "IL",
+        "country": "US",
+        "queryLoc": "Peoria, IL"
+      },
+      {
+        "name": "Houston",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Houston, TX"
+      },
+      {
+        "name": "San Antonio",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "San Antonio, TX"
+      },
+      {
+        "name": "Dallas",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Dallas, TX"
+      },
+      {
+        "name": "Austin",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Austin, TX"
+      },
+      {
+        "name": "Fort Worth",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Fort Worth, TX"
+      },
+      {
+        "name": "Arlington",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Arlington, TX"
+      },
+      {
+        "name": "Plano",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Plano, TX"
+      },
+      {
+        "name": "Irving",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Irving, TX"
+      },
+      {
+        "name": "Garland",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Garland, TX"
+      },
+      {
+        "name": "Frisco",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Frisco, TX"
+      },
+      {
+        "name": "McKinney",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "McKinney, TX"
+      },
+      {
+        "name": "Grand Prairie",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Grand Prairie, TX"
+      },
+      {
+        "name": "Amarillo",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Amarillo, TX"
+      },
+      {
+        "name": "Brownsville",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Brownsville, TX"
+      },
+      {
+        "name": "Killeen",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Killeen, TX"
+      },
+      {
+        "name": "Waco",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Waco, TX"
+      },
+      {
+        "name": "Denton",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Denton, TX"
+      },
+      {
+        "name": "Lubbock",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Lubbock, TX"
+      },
+      {
+        "name": "Corpus Christi",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "Corpus Christi, TX"
+      },
+      {
+        "name": "Nashville",
+        "state": "TN",
+        "country": "US",
+        "queryLoc": "Nashville, TN"
+      },
+      {
+        "name": "Memphis",
+        "state": "TN",
+        "country": "US",
+        "queryLoc": "Memphis, TN"
+      },
+      {
+        "name": "Chattanooga",
+        "state": "TN",
+        "country": "US",
+        "queryLoc": "Chattanooga, TN"
+      },
+      {
+        "name": "Clarksville",
+        "state": "TN",
+        "country": "US",
+        "queryLoc": "Clarksville, TN"
+      },
+      {
+        "name": "Murfreesboro",
+        "state": "TN",
+        "country": "US",
+        "queryLoc": "Murfreesboro, TN"
+      },
+      {
+        "name": "Louisville",
+        "state": "KY",
+        "country": "US",
+        "queryLoc": "Louisville, KY"
+      },
+      {
+        "name": "Lexington",
+        "state": "KY",
+        "country": "US",
+        "queryLoc": "Lexington, KY"
+      },
+      {
+        "name": "Bowling Green",
+        "state": "KY",
+        "country": "US",
+        "queryLoc": "Bowling Green, KY"
+      },
+      {
+        "name": "Milwaukee",
+        "state": "WI",
+        "country": "US",
+        "queryLoc": "Milwaukee, WI"
+      },
+      {
+        "name": "Madison",
+        "state": "WI",
+        "country": "US",
+        "queryLoc": "Madison, WI"
+      },
+      {
+        "name": "Green Bay",
+        "state": "WI",
+        "country": "US",
+        "queryLoc": "Green Bay, WI"
+      },
+      {
+        "name": "Kenosha",
+        "state": "WI",
+        "country": "US",
+        "queryLoc": "Kenosha, WI"
+      },
+      {
+        "name": "Minneapolis",
+        "state": "MN",
+        "country": "US",
+        "queryLoc": "Minneapolis, MN"
+      },
+      {
+        "name": "Saint Paul",
+        "state": "MN",
+        "country": "US",
+        "queryLoc": "Saint Paul, MN"
+      },
+      {
+        "name": "Rochester",
+        "state": "MN",
+        "country": "US",
+        "queryLoc": "Rochester, MN"
+      },
+      {
+        "name": "Duluth",
+        "state": "MN",
+        "country": "US",
+        "queryLoc": "Duluth, MN"
+      },
+      {
+        "name": "Bloomington",
+        "state": "MN",
+        "country": "US",
+        "queryLoc": "Bloomington, MN"
+      },
+      {
+        "name": "Kansas City",
+        "state": "MO",
+        "country": "US",
+        "queryLoc": "Kansas City, MO"
+      },
+      {
+        "name": "St. Louis",
+        "state": "MO",
+        "country": "US",
+        "queryLoc": "St. Louis, MO"
+      },
+      {
+        "name": "Springfield",
+        "state": "MO",
+        "country": "US",
+        "queryLoc": "Springfield, MO"
+      },
+      {
+        "name": "Columbia",
+        "state": "MO",
+        "country": "US",
+        "queryLoc": "Columbia, MO"
+      },
+      {
+        "name": "Independence",
+        "state": "MO",
+        "country": "US",
+        "queryLoc": "Independence, MO"
+      },
+      {
+        "name": "Oklahoma City",
+        "state": "OK",
+        "country": "US",
+        "queryLoc": "Oklahoma City, OK"
+      },
+      {
+        "name": "Tulsa",
+        "state": "OK",
+        "country": "US",
+        "queryLoc": "Tulsa, OK"
+      },
+      {
+        "name": "Norman",
+        "state": "OK",
+        "country": "US",
+        "queryLoc": "Norman, OK"
+      },
+      {
+        "name": "Broken Arrow",
+        "state": "OK",
+        "country": "US",
+        "queryLoc": "Broken Arrow, OK"
+      },
+      {
+        "name": "Edmond",
+        "state": "OK",
+        "country": "US",
+        "queryLoc": "Edmond, OK"
+      },
+      {
+        "name": "New Orleans",
+        "state": "LA",
+        "country": "US",
+        "queryLoc": "New Orleans, LA"
+      },
+      {
+        "name": "Baton Rouge",
+        "state": "LA",
+        "country": "US",
+        "queryLoc": "Baton Rouge, LA"
+      },
+      {
+        "name": "Shreveport",
+        "state": "LA",
+        "country": "US",
+        "queryLoc": "Shreveport, LA"
+      },
+      {
+        "name": "Lafayette",
+        "state": "LA",
+        "country": "US",
+        "queryLoc": "Lafayette, LA"
+      },
+      {
+        "name": "Huntsville",
+        "state": "AL",
+        "country": "US",
+        "queryLoc": "Huntsville, AL"
+      },
+      {
+        "name": "Birmingham",
+        "state": "AL",
+        "country": "US",
+        "queryLoc": "Birmingham, AL"
+      },
+      {
+        "name": "Montgomery",
+        "state": "AL",
+        "country": "US",
+        "queryLoc": "Montgomery, AL"
+      },
+      {
+        "name": "Mobile",
+        "state": "AL",
+        "country": "US",
+        "queryLoc": "Mobile, AL"
+      },
+      {
+        "name": "Tuscaloosa",
+        "state": "AL",
+        "country": "US",
+        "queryLoc": "Tuscaloosa, AL"
+      },
+      {
+        "name": "Omaha",
+        "state": "NE",
+        "country": "US",
+        "queryLoc": "Omaha, NE"
+      },
+      {
+        "name": "Lincoln",
+        "state": "NE",
+        "country": "US",
+        "queryLoc": "Lincoln, NE"
+      },
+      {
+        "name": "Des Moines",
+        "state": "IA",
+        "country": "US",
+        "queryLoc": "Des Moines, IA"
+      },
+      {
+        "name": "Cedar Rapids",
+        "state": "IA",
+        "country": "US",
+        "queryLoc": "Cedar Rapids, IA"
+      },
+      {
+        "name": "Davenport",
+        "state": "IA",
+        "country": "US",
+        "queryLoc": "Davenport, IA"
+      },
+      {
+        "name": "Wichita",
+        "state": "KS",
+        "country": "US",
+        "queryLoc": "Wichita, KS"
+      },
+      {
+        "name": "Overland Park",
+        "state": "KS",
+        "country": "US",
+        "queryLoc": "Overland Park, KS"
+      },
+      {
+        "name": "Kansas City",
+        "state": "KS",
+        "country": "US",
+        "queryLoc": "Kansas City, KS"
+      },
+      {
+        "name": "Topeka",
+        "state": "KS",
+        "country": "US",
+        "queryLoc": "Topeka, KS"
+      },
+      {
+        "name": "Little Rock",
+        "state": "AR",
+        "country": "US",
+        "queryLoc": "Little Rock, AR"
+      },
+      {
+        "name": "Fayetteville",
+        "state": "AR",
+        "country": "US",
+        "queryLoc": "Fayetteville, AR"
+      },
+      {
+        "name": "Sioux Falls",
+        "state": "SD",
+        "country": "US",
+        "queryLoc": "Sioux Falls, SD"
+      },
+      {
+        "name": "Fargo",
+        "state": "ND",
+        "country": "US",
+        "queryLoc": "Fargo, ND"
+      },
+      {
+        "name": "Jackson",
+        "state": "MS",
+        "country": "US",
+        "queryLoc": "Jackson, MS"
+      },
+      {
+        "name": "Gulfport",
+        "state": "MS",
+        "country": "US",
+        "queryLoc": "Gulfport, MS"
+      },
+      {
+        "name": "Winnipeg",
+        "state": "MB",
+        "country": "CA",
+        "queryLoc": "Winnipeg, Manitoba, Canada"
+      },
+      {
+        "name": "Brandon",
+        "state": "MB",
+        "country": "CA",
+        "queryLoc": "Brandon, Manitoba, Canada"
+      },
+      {
+        "name": "Steinbach",
+        "state": "MB",
+        "country": "CA",
+        "queryLoc": "Steinbach, Manitoba, Canada"
+      },
+      {
+        "name": "Saskatoon",
+        "state": "SK",
+        "country": "CA",
+        "queryLoc": "Saskatoon, Saskatchewan, Canada"
+      },
+      {
+        "name": "Regina",
+        "state": "SK",
+        "country": "CA",
+        "queryLoc": "Regina, Saskatchewan, Canada"
+      },
+      {
+        "name": "Prince Albert",
+        "state": "SK",
+        "country": "CA",
+        "queryLoc": "Prince Albert, Saskatchewan, Canada"
+      },
+      {
+        "name": "Moose Jaw",
+        "state": "SK",
+        "country": "CA",
+        "queryLoc": "Moose Jaw, Saskatchewan, Canada"
+      }
+    ]
+  },
+  "mountain": {
+    "name": "Mountain Zone (US & Canada)",
+    "cities": [
+      {
+        "name": "Phoenix",
+        "state": "AZ",
+        "country": "US",
+        "queryLoc": "Phoenix, AZ"
+      },
+      {
+        "name": "Tucson",
+        "state": "AZ",
+        "country": "US",
+        "queryLoc": "Tucson, AZ"
+      },
+      {
+        "name": "Mesa",
+        "state": "AZ",
+        "country": "US",
+        "queryLoc": "Mesa, AZ"
+      },
+      {
+        "name": "Chandler",
+        "state": "AZ",
+        "country": "US",
+        "queryLoc": "Chandler, AZ"
+      },
+      {
+        "name": "Scottsdale",
+        "state": "AZ",
+        "country": "US",
+        "queryLoc": "Scottsdale, AZ"
+      },
+      {
+        "name": "Gilbert",
+        "state": "AZ",
+        "country": "US",
+        "queryLoc": "Gilbert, AZ"
+      },
+      {
+        "name": "Glendale",
+        "state": "AZ",
+        "country": "US",
+        "queryLoc": "Glendale, AZ"
+      },
+      {
+        "name": "Tempe",
+        "state": "AZ",
+        "country": "US",
+        "queryLoc": "Tempe, AZ"
+      },
+      {
+        "name": "Peoria",
+        "state": "AZ",
+        "country": "US",
+        "queryLoc": "Peoria, AZ"
+      },
+      {
+        "name": "Surprise",
+        "state": "AZ",
+        "country": "US",
+        "queryLoc": "Surprise, AZ"
+      },
+      {
+        "name": "Yuma",
+        "state": "AZ",
+        "country": "US",
+        "queryLoc": "Yuma, AZ"
+      },
+      {
+        "name": "Flagstaff",
+        "state": "AZ",
+        "country": "US",
+        "queryLoc": "Flagstaff, AZ"
+      },
+      {
+        "name": "Denver",
+        "state": "CO",
+        "country": "US",
+        "queryLoc": "Denver, CO"
+      },
+      {
+        "name": "Colorado Springs",
+        "state": "CO",
+        "country": "US",
+        "queryLoc": "Colorado Springs, CO"
+      },
+      {
+        "name": "Aurora",
+        "state": "CO",
+        "country": "US",
+        "queryLoc": "Aurora, CO"
+      },
+      {
+        "name": "Fort Collins",
+        "state": "CO",
+        "country": "US",
+        "queryLoc": "Fort Collins, CO"
+      },
+      {
+        "name": "Lakewood",
+        "state": "CO",
+        "country": "US",
+        "queryLoc": "Lakewood, CO"
+      },
+      {
+        "name": "Thornton",
+        "state": "CO",
+        "country": "US",
+        "queryLoc": "Thornton, CO"
+      },
+      {
+        "name": "Arvada",
+        "state": "CO",
+        "country": "US",
+        "queryLoc": "Arvada, CO"
+      },
+      {
+        "name": "Westminster",
+        "state": "CO",
+        "country": "US",
+        "queryLoc": "Westminster, CO"
+      },
+      {
+        "name": "Pueblo",
+        "state": "CO",
+        "country": "US",
+        "queryLoc": "Pueblo, CO"
+      },
+      {
+        "name": "Boulder",
+        "state": "CO",
+        "country": "US",
+        "queryLoc": "Boulder, CO"
+      },
+      {
+        "name": "Greeley",
+        "state": "CO",
+        "country": "US",
+        "queryLoc": "Greeley, CO"
+      },
+      {
+        "name": "Salt Lake City",
+        "state": "UT",
+        "country": "US",
+        "queryLoc": "Salt Lake City, UT"
+      },
+      {
+        "name": "West Valley City",
+        "state": "UT",
+        "country": "US",
+        "queryLoc": "West Valley City, UT"
+      },
+      {
+        "name": "Provo",
+        "state": "UT",
+        "country": "US",
+        "queryLoc": "Provo, UT"
+      },
+      {
+        "name": "West Jordan",
+        "state": "UT",
+        "country": "US",
+        "queryLoc": "West Jordan, UT"
+      },
+      {
+        "name": "Orem",
+        "state": "UT",
+        "country": "US",
+        "queryLoc": "Orem, UT"
+      },
+      {
+        "name": "Sandy",
+        "state": "UT",
+        "country": "US",
+        "queryLoc": "Sandy, UT"
+      },
+      {
+        "name": "St. George",
+        "state": "UT",
+        "country": "US",
+        "queryLoc": "St. George, UT"
+      },
+      {
+        "name": "Ogden",
+        "state": "UT",
+        "country": "US",
+        "queryLoc": "Ogden, UT"
+      },
+      {
+        "name": "Albuquerque",
+        "state": "NM",
+        "country": "US",
+        "queryLoc": "Albuquerque, NM"
+      },
+      {
+        "name": "Las Cruces",
+        "state": "NM",
+        "country": "US",
+        "queryLoc": "Las Cruces, NM"
+      },
+      {
+        "name": "Rio Rancho",
+        "state": "NM",
+        "country": "US",
+        "queryLoc": "Rio Rancho, NM"
+      },
+      {
+        "name": "Santa Fe",
+        "state": "NM",
+        "country": "US",
+        "queryLoc": "Santa Fe, NM"
+      },
+      {
+        "name": "El Paso",
+        "state": "TX",
+        "country": "US",
+        "queryLoc": "El Paso, TX"
+      },
+      {
+        "name": "Boise",
+        "state": "ID",
+        "country": "US",
+        "queryLoc": "Boise, ID"
+      },
+      {
+        "name": "Meridian",
+        "state": "ID",
+        "country": "US",
+        "queryLoc": "Meridian, ID"
+      },
+      {
+        "name": "Nampa",
+        "state": "ID",
+        "country": "US",
+        "queryLoc": "Nampa, ID"
+      },
+      {
+        "name": "Idaho Falls",
+        "state": "ID",
+        "country": "US",
+        "queryLoc": "Idaho Falls, ID"
+      },
+      {
+        "name": "Billings",
+        "state": "MT",
+        "country": "US",
+        "queryLoc": "Billings, MT"
+      },
+      {
+        "name": "Missoula",
+        "state": "MT",
+        "country": "US",
+        "queryLoc": "Missoula, MT"
+      },
+      {
+        "name": "Great Falls",
+        "state": "MT",
+        "country": "US",
+        "queryLoc": "Great Falls, MT"
+      },
+      {
+        "name": "Bozeman",
+        "state": "MT",
+        "country": "US",
+        "queryLoc": "Bozeman, MT"
+      },
+      {
+        "name": "Cheyenne",
+        "state": "WY",
+        "country": "US",
+        "queryLoc": "Cheyenne, WY"
+      },
+      {
+        "name": "Casper",
+        "state": "WY",
+        "country": "US",
+        "queryLoc": "Casper, WY"
+      },
+      {
+        "name": "Calgary",
+        "state": "AB",
+        "country": "CA",
+        "queryLoc": "Calgary, Alberta, Canada"
+      },
+      {
+        "name": "Edmonton",
+        "state": "AB",
+        "country": "CA",
+        "queryLoc": "Edmonton, Alberta, Canada"
+      },
+      {
+        "name": "Red Deer",
+        "state": "AB",
+        "country": "CA",
+        "queryLoc": "Red Deer, Alberta, Canada"
+      },
+      {
+        "name": "Lethbridge",
+        "state": "AB",
+        "country": "CA",
+        "queryLoc": "Lethbridge, Alberta, Canada"
+      },
+      {
+        "name": "St. Albert",
+        "state": "AB",
+        "country": "CA",
+        "queryLoc": "St. Albert, Alberta, Canada"
+      },
+      {
+        "name": "Medicine Hat",
+        "state": "AB",
+        "country": "CA",
+        "queryLoc": "Medicine Hat, Alberta, Canada"
+      },
+      {
+        "name": "Grande Prairie",
+        "state": "AB",
+        "country": "CA",
+        "queryLoc": "Grande Prairie, Alberta, Canada"
+      },
+      {
+        "name": "Airdrie",
+        "state": "AB",
+        "country": "CA",
+        "queryLoc": "Airdrie, Alberta, Canada"
+      }
+    ]
+  },
+  "pacific": {
+    "name": "Pacific Zone (US & Canada)",
+    "cities": [
+      {
+        "name": "Los Angeles",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Los Angeles, CA"
+      },
+      {
+        "name": "San Diego",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "San Diego, CA"
+      },
+      {
+        "name": "Long Beach",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Long Beach, CA"
+      },
+      {
+        "name": "Bakersfield",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Bakersfield, CA"
+      },
+      {
+        "name": "Anaheim",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Anaheim, CA"
+      },
+      {
+        "name": "Santa Ana",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Santa Ana, CA"
+      },
+      {
+        "name": "Riverside",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Riverside, CA"
+      },
+      {
+        "name": "Irvine",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Irvine, CA"
+      },
+      {
+        "name": "Chula Vista",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Chula Vista, CA"
+      },
+      {
+        "name": "San Bernardino",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "San Bernardino, CA"
+      },
+      {
+        "name": "Fontana",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Fontana, CA"
+      },
+      {
+        "name": "Santa Clarita",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Santa Clarita, CA"
+      },
+      {
+        "name": "Oxnard",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Oxnard, CA"
+      },
+      {
+        "name": "Moreno Valley",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Moreno Valley, CA"
+      },
+      {
+        "name": "Huntington Beach",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Huntington Beach, CA"
+      },
+      {
+        "name": "Glendale",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Glendale, CA"
+      },
+      {
+        "name": "Ontario",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Ontario, CA"
+      },
+      {
+        "name": "Rancho Cucamonga",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Rancho Cucamonga, CA"
+      },
+      {
+        "name": "Oceanside",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Oceanside, CA"
+      },
+      {
+        "name": "Garden Grove",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Garden Grove, CA"
+      },
+      {
+        "name": "Lancaster",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Lancaster, CA"
+      },
+      {
+        "name": "Palmdale",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Palmdale, CA"
+      },
+      {
+        "name": "Pomona",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Pomona, CA"
+      },
+      {
+        "name": "Escondido",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Escondido, CA"
+      },
+      {
+        "name": "Torrance",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Torrance, CA"
+      },
+      {
+        "name": "Pasadena",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Pasadena, CA"
+      },
+      {
+        "name": "Orange",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Orange, CA"
+      },
+      {
+        "name": "Fullerton",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Fullerton, CA"
+      },
+      {
+        "name": "San Jose",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "San Jose, CA"
+      },
+      {
+        "name": "San Francisco",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "San Francisco, CA"
+      },
+      {
+        "name": "Fresno",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Fresno, CA"
+      },
+      {
+        "name": "Sacramento",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Sacramento, CA"
+      },
+      {
+        "name": "Oakland",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Oakland, CA"
+      },
+      {
+        "name": "Stockton",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Stockton, CA"
+      },
+      {
+        "name": "Fremont",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Fremont, CA"
+      },
+      {
+        "name": "Modesto",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Modesto, CA"
+      },
+      {
+        "name": "Santa Rosa",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Santa Rosa, CA"
+      },
+      {
+        "name": "Elk Grove",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Elk Grove, CA"
+      },
+      {
+        "name": "Sunnyvale",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Sunnyvale, CA"
+      },
+      {
+        "name": "Hayward",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Hayward, CA"
+      },
+      {
+        "name": "Salinas",
+        "state": "CA",
+        "country": "US",
+        "queryLoc": "Salinas, CA"
+      },
+      {
+        "name": "Las Vegas",
+        "state": "NV",
+        "country": "US",
+        "queryLoc": "Las Vegas, NV"
+      },
+      {
+        "name": "Henderson",
+        "state": "NV",
+        "country": "US",
+        "queryLoc": "Henderson, NV"
+      },
+      {
+        "name": "Reno",
+        "state": "NV",
+        "country": "US",
+        "queryLoc": "Reno, NV"
+      },
+      {
+        "name": "North Las Vegas",
+        "state": "NV",
+        "country": "US",
+        "queryLoc": "North Las Vegas, NV"
+      },
+      {
+        "name": "Sparks",
+        "state": "NV",
+        "country": "US",
+        "queryLoc": "Sparks, NV"
+      },
+      {
+        "name": "Seattle",
+        "state": "WA",
+        "country": "US",
+        "queryLoc": "Seattle, WA"
+      },
+      {
+        "name": "Spokane",
+        "state": "WA",
+        "country": "US",
+        "queryLoc": "Spokane, WA"
+      },
+      {
+        "name": "Tacoma",
+        "state": "WA",
+        "country": "US",
+        "queryLoc": "Tacoma, WA"
+      },
+      {
+        "name": "Vancouver",
+        "state": "WA",
+        "country": "US",
+        "queryLoc": "Vancouver, WA"
+      },
+      {
+        "name": "Bellevue",
+        "state": "WA",
+        "country": "US",
+        "queryLoc": "Bellevue, WA"
+      },
+      {
+        "name": "Kent",
+        "state": "WA",
+        "country": "US",
+        "queryLoc": "Kent, WA"
+      },
+      {
+        "name": "Everett",
+        "state": "WA",
+        "country": "US",
+        "queryLoc": "Everett, WA"
+      },
+      {
+        "name": "Renton",
+        "state": "WA",
+        "country": "US",
+        "queryLoc": "Renton, WA"
+      },
+      {
+        "name": "Spokane Valley",
+        "state": "WA",
+        "country": "US",
+        "queryLoc": "Spokane Valley, WA"
+      },
+      {
+        "name": "Portland",
+        "state": "OR",
+        "country": "US",
+        "queryLoc": "Portland, OR"
+      },
+      {
+        "name": "Salem",
+        "state": "OR",
+        "country": "US",
+        "queryLoc": "Salem, OR"
+      },
+      {
+        "name": "Eugene",
+        "state": "OR",
+        "country": "US",
+        "queryLoc": "Eugene, OR"
+      },
+      {
+        "name": "Gresham",
+        "state": "OR",
+        "country": "US",
+        "queryLoc": "Gresham, OR"
+      },
+      {
+        "name": "Hillsboro",
+        "state": "OR",
+        "country": "US",
+        "queryLoc": "Hillsboro, OR"
+      },
+      {
+        "name": "Beaverton",
+        "state": "OR",
+        "country": "US",
+        "queryLoc": "Beaverton, OR"
+      },
+      {
+        "name": "Bend",
+        "state": "OR",
+        "country": "US",
+        "queryLoc": "Bend, OR"
+      },
+      {
+        "name": "Anchorage",
+        "state": "AK",
+        "country": "US",
+        "queryLoc": "Anchorage, AK"
+      },
+      {
+        "name": "Honolulu",
+        "state": "HI",
+        "country": "US",
+        "queryLoc": "Honolulu, HI"
+      },
+      {
+        "name": "Vancouver",
+        "state": "BC",
+        "country": "CA",
+        "queryLoc": "Vancouver, British Columbia, Canada"
+      },
+      {
+        "name": "Surrey",
+        "state": "BC",
+        "country": "CA",
+        "queryLoc": "Surrey, British Columbia, Canada"
+      },
+      {
+        "name": "Burnaby",
+        "state": "BC",
+        "country": "CA",
+        "queryLoc": "Burnaby, British Columbia, Canada"
+      },
+      {
+        "name": "Richmond",
+        "state": "BC",
+        "country": "CA",
+        "queryLoc": "Richmond, British Columbia, Canada"
+      },
+      {
+        "name": "Abbotsford",
+        "state": "BC",
+        "country": "CA",
+        "queryLoc": "Abbotsford, British Columbia, Canada"
+      },
+      {
+        "name": "Coquitlam",
+        "state": "BC",
+        "country": "CA",
+        "queryLoc": "Coquitlam, British Columbia, Canada"
+      },
+      {
+        "name": "Kelowna",
+        "state": "BC",
+        "country": "CA",
+        "queryLoc": "Kelowna, British Columbia, Canada"
+      },
+      {
+        "name": "Langley",
+        "state": "BC",
+        "country": "CA",
+        "queryLoc": "Langley, British Columbia, Canada"
+      },
+      {
+        "name": "Saanich",
+        "state": "BC",
+        "country": "CA",
+        "queryLoc": "Saanich, British Columbia, Canada"
+      },
+      {
+        "name": "Victoria",
+        "state": "BC",
+        "country": "CA",
+        "queryLoc": "Victoria, British Columbia, Canada"
+      },
+      {
+        "name": "Nanaimo",
+        "state": "BC",
+        "country": "CA",
+        "queryLoc": "Nanaimo, British Columbia, Canada"
+      },
+      {
+        "name": "Kamloops",
+        "state": "BC",
+        "country": "CA",
+        "queryLoc": "Kamloops, British Columbia, Canada"
+      },
+      {
+        "name": "Chilliwack",
+        "state": "BC",
+        "country": "CA",
+        "queryLoc": "Chilliwack, British Columbia, Canada"
+      },
+      {
+        "name": "Prince George",
+        "state": "BC",
+        "country": "CA",
+        "queryLoc": "Prince George, British Columbia, Canada"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "business_name": "Z Barbershop",
+    "category": "Barber Shops",
+    "phone_raw": "+1 (774) 777-8777",
+    "email_raw": "",
+    "full_address": "Z Barbershop is located at 536 Columbus Ave in Boston, Massachusetts 02118. Z Barbershop can be contacted via phone at 7",
+    "city": "hours and directions.",
+    "state": "MA",
+    "zip": "",
+    "rating": "",
+    "reviews": "0",
+    "source": "public_directory_index",
+    "source_url": "https://www.chamberofcommerce.com/business-directory/massachusetts/boston/barber-shop/2007913361-z-barbershop",
+    "has_website": false
+  },
+  {
+    "business_name": "25 Best Barber Shops Near Boston, MA - 2026 BestProsInTown",
+    "category": "Barber Shops",
+    "phone_raw": "",
+    "email_raw": "",
+    "full_address": "Find the best barbershops in Boston with the latest reviews and photos. Get directions, hours and phone numbers.",
+    "city": "hours and phone numbers.",
+    "state": "MA",
+    "zip": "",
+    "rating": "",
+    "reviews": "0",
+    "source": "public_directory_index",
+    "source_url": "https://www.bestprosintown.com/ma/boston/barbers/",
+    "has_website": false
+  }
+]

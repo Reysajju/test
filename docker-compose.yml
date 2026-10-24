@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  dental-scraper:
+    build: .
+    restart: unless-stopped
+    volumes:
+      - ./Sajjad data:/app/Sajjad data
+    environment:
+      - NODE_ENV=production
+    deploy:
+      resources:
+        limits:
+          memory: 2048M

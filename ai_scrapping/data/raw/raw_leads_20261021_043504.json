@@ -1,0 +1,32 @@
+[
+  {
+    "business_name": "Wayne's Barber Shop",
+    "category": "Barber shop",
+    "phone_raw": "+1 (207) 263-8913",
+    "email_raw": "",
+    "full_address": "One Court St Unit 8, Machias, ME 04654, United States",
+    "city": "Machias",
+    "state": "ME",
+    "zip": "04654",
+    "rating": "4.8",
+    "reviews": "5",
+    "source": "google_maps_b2b",
+    "source_url": "https://www.google.com/maps/place/Wayne%27s+Barber+Shop/data=!4m7!3m6!1s0x4ca8cdec82a30561:0x8dbb9986221803fd!8m2!3d44.7187118!4d-67.4528808!16s%2Fg%2F11ddzp8jq1!19sChIJYQWjguzNqEwR_QMYIoaZu40?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMi4wIJJjKgBIAVAD&rclk=1",
+    "has_website": false
+  },
+  {
+    "business_name": "Abbot Village Barbershop",
+    "category": "Barber shop",
+    "phone_raw": "+1 (207) 343-1686",
+    "email_raw": "",
+    "full_address": "Abbot, ME 04406, United States",
+    "city": "Abbot",
+    "state": "ME",
+    "zip": "04406",
+    "rating": "4.8",
+    "reviews": "5",
+    "source": "google_maps_b2b",
+    "source_url": "https://www.google.com/maps/place/Abbot+Village+Barbershop/data=!4m7!3m6!1s0x4cb03f2f6ae16161:0x97da8bd21f1240dc!8m2!3d45.1869524!4d-69.4524715!16s%2Fg%2F11knn761c9!19sChIJYWHhai8_sEwR3EASH9KL2pc?authuser=0&hl=en&g_ep=EgoyMDI2MTAxMi4wIJJjKgBIAVAD&rclk=1",
+    "has_website": false
+  }
+]
